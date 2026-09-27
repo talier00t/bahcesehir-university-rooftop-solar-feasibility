@@ -8,7 +8,7 @@ Status: WIP. Geometry and yield are a first pass. Techno-economic numbers will b
 
 Google Earth footprint to AutoCAD 3D body to PVsyst near-shading scene to grid-connected yield.
 
-KML outline -> AutoCAD SCRIPT (.scr) -> Collada (.dae) -> PVsyst Near Shadings
+KML outline -> AutoCAD (.dwg) -> Collada (.dae) -> PVsyst Near Shadings
 
 1. Building outline traced in Google Earth and exported as KML.
 2. Outline converted to local metres (UTM 35N, +Y = north, Z up) and extruded in AutoCAD with a SCRIPT file.
